@@ -1,11 +1,11 @@
-### Resources
+## Resources
 
-## H-ISAC Library
+### H-ISAC Library
 https://portal.h-isac.org/s/content-center
 
-## Insider Threat Matrix
+### Insider Threat Matrix
 https://insiderthreatmatrix.org/
 
-## Purple Ops
+### Purple Ops
 https://github.com/CyberCX-STA/PurpleOps?tab=readme-ov-file#ip-whitelisting-with-ufw
 
